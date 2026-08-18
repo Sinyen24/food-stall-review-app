@@ -1,26 +1,36 @@
 Food Stall Review App
 # Project Overview
 
-<img src="screenshots/Login_Page.png" width="220">
-<img src="screenshots/Registration_Page.png" width="220">
-<img src="screenshots/Registration_Page2.png" width="220">
-<img src="screenshots/HomePage.png" width="220">
-<img src="screenshots/StallDetailPage.png" width="220">
-<img src="screenshots/AddReview.png" width="220">
-<img src="screenshots/MyReviewPage.png" width="220">
-<img src="screenshots/ProfilePage.png" width="220">
-<img src="screenshots/ProfilePage2.png" width="220">
-<img src="screenshots/SettingsPage.png" width="220">
-<img src="screenshots/DarkModeShowCase1.png" width="220">
-<img src="screenshots/DarkModeShowCase2.png" width="220">
-<img src="screenshots/DarkModeShowCase3.png" width="220">
-<img src="screenshots/AboutPage.png" width="220">
-<img src="screenshots/DrawerNavigator(User).png" width="220">
-<img src="screenshots/DrawerNavigator(Admin).png" width="220">
-<img src="screenshots/AddStallPage(Admin only).png" width="220">
-<img src="screenshots/EditStallPage(Admin only).png" width="220">
-<img src="screenshots/ManageStallPage(Admin only).png" width="220">
+## 📱 Application Screenshots
 
+### User Features
+
+<p align="center">
+  <img src="screenshot/HomePage.png" width="250" alt="Home Page">
+  <img src="screenshot/StallDetailPage.png" width="250" alt="Stall Details">
+  <img src="screenshot/AddReviewPage.png" width="250" alt="Add Review">
+</p>
+
+<p align="center">
+  <b>Home Page</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Stall Details</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Add Review</b>
+</p>
+
+<p align="center">
+  <img src="screenshot/MyReviewPAge.png" width="250" alt="My Reviews">
+  <img src="screenshot/ProfilePage.png" width="250" alt="Profile">
+</p>
+
+### Admin Features
+
+<p align="center">
+  <img src="screenshot/Manage%20Stalls%20Page%20(Admin%20only).png" width="250" alt="Manage Stalls">
+</p>
+
+<p align="center">
+  <b>Manage Stalls — Admin</b>
+</p>
 
 The Food Stall Review App is a mobile application developed as a group project to help users discover food stalls, view stall information, and share their dining experiences through reviews.
 
