@@ -3,33 +3,54 @@ Food Stall Review App
 
 ## 📱 Application Screenshots
 
-### User Features
+### 🏠 Main Application
 
 <p align="center">
-  <img src="screenshot/HomePage.png" width="250" alt="Home Page">
-  <img src="screenshot/StallDetailPage.png" width="250" alt="Stall Details">
-  <img src="screenshot/AddReviewPage.png" width="250" alt="Add Review">
+  <img src="screenshots/MainPage.png" width="250" alt="Main Page">
+  <img src="screenshots/StallDetailPage.png" width="250" alt="Stall Detail Page">
+  <img src="screenshots/Navigator.png" width="250" alt="Navigation Menu">
 </p>
 
 <p align="center">
-  <b>Home Page</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Stall Details</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Add Review</b>
+  <b>Main Page</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Stall Details</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Navigation</b>
+</p>
+
+### ⭐ Review System
+
+<p align="center">
+  <img src="screenshots/AddReviewPage.png" width="250" alt="Add Review">
+  <img src="screenshots/ReviewAddedPage.png" width="250" alt="Review Added">
+  <img src="screenshots/MyReviewHistory.png" width="250" alt="Review History">
 </p>
 
 <p align="center">
-  <img src="screenshot/MyReviewPAge.png" width="250" alt="My Reviews">
-  <img src="screenshot/ProfilePage.png" width="250" alt="Profile">
+  <b>Add Review</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Review Added</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Review History</b>
 </p>
 
-### Admin Features
+### 👤 User Account
 
 <p align="center">
-  <img src="screenshot/Manage%20Stalls%20Page%20(Admin%20only).png" width="250" alt="Manage Stalls">
+  <img src="screenshots/LoginPage.png" width="250" alt="Login Page">
+  <img src="screenshots/ProfilePage.png" width="250" alt="Profile Page">
+  <img src="screenshots/Setting.png" width="250" alt="Settings">
 </p>
 
 <p align="center">
-  <b>Manage Stalls — Admin</b>
+  <b>Login</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Profile</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Settings</b>
+</p>
+
+### 🌙 Dark Mode
+
+<p align="center">
+  <img src="screenshots/DarkMode.png" width="250" alt="Dark Mode">
+  <img src="screenshots/DarkMode2.png" width="250" alt="Dark Mode Stall Details">
+  <img src="screenshots/DarkMode3.png" width="250" alt="Dark Mode Review">
 </p>
 
 The Food Stall Review App is a mobile application developed as a group project to help users discover food stalls, view stall information, and share their dining experiences through reviews.
