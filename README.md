@@ -1,6 +1,27 @@
 Food Stall Review App
 # Project Overview
 
+<img src="screenshots/Login_Page.png" width="220">
+<img src="screenshots/Registration_Page.png" width="220">
+<img src="screenshots/Registration_Page2.png" width="220">
+<img src="screenshots/HomePage.png" width="220">
+<img src="screenshots/StallDetailPage.png" width="220">
+<img src="screenshots/AddReview.png" width="220">
+<img src="screenshots/MyReviewPage.png" width="220">
+<img src="screenshots/ProfilePage.png" width="220">
+<img src="screenshots/ProfilePage2.png" width="220">
+<img src="screenshots/SettingsPage.png" width="220">
+<img src="screenshots/DarkModeShowCase1.png" width="220">
+<img src="screenshots/DarkModeShowCase2.png" width="220">
+<img src="screenshots/DarkModeShowCase3.png" width="220">
+<img src="screenshots/AboutPage.png" width="220">
+<img src="screenshots/DrawerNavigator(User).png" width="220">
+<img src="screenshots/DrawerNavigator(Admin).png" width="220">
+<img src="screenshots/AddStallPage(Admin only).png" width="220">
+<img src="screenshots/EditStallPage(Admin only).png" width="220">
+<img src="screenshots/ManageStallPage(Admin only).png" width="220">
+
+
 The Food Stall Review App is a mobile application developed as a group project to help users discover food stalls, view stall information, and share their dining experiences through reviews.
 
 The application was developed using React Native for the mobile application, Express.js for the backend API, and MongoDB Atlas for database management. The project focuses on providing users with a simple platform to browse food stalls, view reviews, and contribute their own feedback.
